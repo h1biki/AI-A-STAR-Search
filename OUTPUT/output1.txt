@@ -1,0 +1,84 @@
+S 0
+* R R X G
+R X R X R
+R R R X R
+X R X R R
+R R R R R
+
+S-D 2
+S R R X G
+* X R X R
+R R R X R
+X R X R R
+R R R R R
+
+S-D-D 4
+S R R X G
+R X R X R
+* R R X R
+X R X R R
+R R R R R
+
+S-D-D-R 6
+S R R X G
+R X R X R
+R * R X R
+X R X R R
+R R R R R
+
+S-D-D-R-D 8
+S R R X G
+R X R X R
+R R R X R
+X * X R R
+R R R R R
+
+S-D-D-R-D-D 10
+S R R X G
+R X R X R
+R R R X R
+X R X R R
+R * R R R
+
+S-D-D-R-D-D-R 12
+S R R X G
+R X R X R
+R R R X R
+X R X R R
+R R * R R
+
+S-D-D-R-D-D-R-R 14
+S R R X G
+R X R X R
+R R R X R
+X R X R R
+R R R * R
+
+S-D-D-R-D-D-R-R-UR 15
+S R R X G
+R X R X R
+R R R X R
+X R X R *
+R R R R R
+
+S-D-D-R-D-D-R-R-UR-U 17
+S R R X G
+R X R X R
+R R R X *
+X R X R R
+R R R R R
+
+S-D-D-R-D-D-R-R-UR-U-U 19
+S R R X G
+R X R X *
+R R R X R
+X R X R R
+R R R R R
+
+S-D-D-R-D-D-R-R-UR-U-U-U 21
+S R R X *
+R X R X R
+R R R X R
+X R X R R
+R R R R R
+
